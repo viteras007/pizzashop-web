@@ -9,9 +9,6 @@ Welcome to the Pizzashop iFood Dashboard, a comprehensive management system for 
 - [Important Learnings](#important-learnings)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 Pizzashop is a React-based dashboard designed to streamline restaurant management and order control. Whether you're handling menu updates, tracking orders, or analyzing business metrics, Pizzashop provides a user-friendly interface and powerful features to keep your establishment running smoothly.
